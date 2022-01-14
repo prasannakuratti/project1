@@ -3,7 +3,10 @@ welcome to myWorld
 heart failue prediction 
 heart beat anomaly classifier
 
-heart disease
+heart disease 
+
+heart failure 
+heart fine 
 
 Thank you:)
 
